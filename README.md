@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+# 안녕하세요 👋
+
+데이터누리 기술지원팀 박병준입니다.
+
+## 🔧 What I Do
+- 가끔 재미있는 것들을 시도해봅니다
+
+## 📬 Contact
+park98@datanuri.net
+
+---
+💡 *"데이터누리 짱.."*
+
 <!--
 **datanuripark98/datanuripark98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
